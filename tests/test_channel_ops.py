@@ -1,5 +1,4 @@
 from functools import partial
-from functions.operations import ChannelNotFoundError, get_channel
 
 import pytest
 
